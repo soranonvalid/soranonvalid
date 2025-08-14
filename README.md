@@ -20,9 +20,9 @@
 
 <div style="height: 10px"></div>
 
-<div style="border: 1px solid rgba(255, 255, 255, 0.14); padding: 30px">
-<p style="font-size: 1.2rem;font-weight: bold">Utility</p>
+## Utility
 <div style="height: 10px"></div>
+
 <p style="display: block;">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;
@@ -35,4 +35,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-</div>
