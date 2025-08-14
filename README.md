@@ -14,6 +14,11 @@ A fullstack developer building seamless digital experiences from concept to depl
 ## Utility
 
 <p>
+    <img src="https://img.shields.io/badge/shadcn_ui-GitHub-black?style=for-the-badge&logo=github"/>
+  &nbsp;
+  <img src="https://img.shields.io/npm/v/shadcn-ui?style=for-the-badge&logo=npm"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/@shadcn/ui-npm-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> &nbsp;
