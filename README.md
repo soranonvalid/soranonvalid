@@ -26,4 +26,4 @@ A fullstack developer building seamless digital experiences from concept to depl
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soranonvalid&layout=compact&theme=ayu-mirage&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soranonvalid&layout=compact&theme=ayu-mirage&langs_count=6&hide=html)
