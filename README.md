@@ -4,19 +4,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=soranonvalid-git&color=blue&style=flat-square">
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <div style="flex: 1; min-width: 250px;">
-    <h1>Hello, I'm Sora.</h1>
-    <p>
-      A fullstack developer building seamless digital experiences from concept to deployment. Skilled in crafting interactive, responsive front-end interfaces and designing scalable, secure back-end systems.
-    </p>
-    <p>In simple, building anything you want ✨</p>
-    <em>Not someone you know but maybe someone you need.</em>
-  </div>
+## Hello, I'm Sora.
 
-<div style="height: 10px"></div>
+A fullstack developer building seamless digital experiences from concept to deployment. Skilled in crafting interactive, responsive front-end interfaces and designing scalable, secure back-end systems.
+
+<p>In simple, building anything you want ✨</p>
+<em>Not someone you know but maybe someone you need.</em>
 
 ## Utility
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;
@@ -29,3 +25,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soranonvalid&layout=compact&theme=ayu-mirage&langs_count=6)
