@@ -13,16 +13,17 @@
       <em>Not someone you know but maybe someone you need.</em>
     </td>
     <td>
-      <div style="background: url('https://i.pinimg.com/originals/be/0d/3c/be0d3cee4e91ed0d54b72d9080b5c4e5.gif') center/cover repeat; width: 100px;height: 350"></div>
+      <img style="width: 600; height: 350; object-fit:cover;" src="https://i.pinimg.com/originals/be/0d/3c/be0d3cee4e91ed0d54b72d9080b5c4e5.gif">
     </td>
   </tr>
 </table>
 
 <div style="height: 10px"></div>
 
-<fieldset style="border: 1px solid rgba(255, 255, 255, 0.14);">
-<legend style="padding: 0 20px">Utility</legend>
-<p style="padding: 20px 0 0 0" align="left">
+<div style="border: 1px solid rgba(255, 255, 255, 0.14); padding: 30px">
+<p style="font-size: 1.2rem;font-weight: bold">Utility</p>
+<div style="height: 10px"></div>
+<p style="display: block;">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> &nbsp;
@@ -34,4 +35,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-</fieldset>
+</div>
