@@ -75,6 +75,6 @@ A full-stack developer obsessed with making the web feel effortless. Whether I'm
 
 </details>
 <picture>
-  <img alt="my github pet" src="https://raw.githubusercontent.com/soranonvalid/soranonvalid/main/dist/langs.svg" width="50%">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/soranonvalid/soranonvalid/main/dist/langs.svg" width="450px">
 </picture>
 
