@@ -12,9 +12,8 @@
 
 ## Hello, I'm Sora.
 
-A fullstack developer building seamless digital experiences from concept to deployment. Skilled in crafting interactive, responsive front-end interfaces and designing scalable, secure back-end systems.
+A full-stack developer obsessed with making the web feel effortless. Whether I'm obsessing over micro-interactions on the front-end, architecting secure, heavy-lifting back-ends, or connecting the right tools and applications to streamline workflows, I love building things from scratch and shipping them to the world.
 
-<p>In simple, building anything you want ✨</p>
 <em>Not someone you know but maybe someone you need.</em>
 
 ## Utility
@@ -59,7 +58,7 @@ A fullstack developer building seamless digital experiences from concept to depl
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=FFD43B)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Arch user btw](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Arch user btw](https://img.shields.io/badge/Arch%20user%20btw-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdi4wMDN2OS4zNTJIMFYzLjQ0OXptMTAuOTQ5LTEuNTQ5TDI0IDB2MTEuNGgtMTMuMDUxVjEuOXpNMCAxMi42aDkuNzV2OS4zNUwwIDIwLjU1MVYxMi42em0xMC45NDkgMEgyNHYxMS40bC0xMy4wNTEtMS45VjEyLjZ6Ii8+PC9zdmc+)
 
 <details>
