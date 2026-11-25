@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/your-username/your-username/main/dist/pet.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soranonvalid/soranonvalid/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soranonvalid/soranonvalid/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/soranonvalid/soranonvalid/main/dist/pet.svg" width="100%">
 </picture>
 
 <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="header gif" width="100%">
@@ -66,3 +66,7 @@ A fullstack developer building seamless digital experiences from concept to depl
   ![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-2C5AA0?style=flat&logo=cplusplus&logoColor=white)
 
 </details>
+<picture>
+  <img alt="my github pet" src="https://raw.githubusercontent.com/soranonvalid/soranonvalid/main/dist/langs.svg" width="50%">
+</picture>
+
